@@ -18,12 +18,15 @@
 - 벌점 쌓아서 진 사람이 카페쏘기
 - github에 코드 안 올리면 눈치 주기
 ---
-## Problems
+## Problems 
 <!-- | 10 | BOJ | G |  | [](https://www.acmicpc.net/problem/) | -->
 | 주차 | 분류 | 난이도 | 번호 | 제목 | 미참여 |
 |:---:|:---:|:---:|:---|:---|:---|
 | 1 | BOJ | G5 | 2470 | [두 용액](https://www.acmicpc.net/problem/2470) | |
-| 1 | BOJ | G4 | 10942 | [팰린드롬?](https://www.acmicpc.net/problem/10942) | |
-| 1 | BOJ | G4 | 2056 | [작업](https://www.acmicpc.net/problem/2056) | |
+| 1 | BOJ | G4 | 10942 | [팰린드롬?](https://www.acmicpc.net/problem/10942) | 현경 |
+| 1 | BOJ | G4 | 2056 | [작업](https://www.acmicpc.net/problem/2056) | 채원 |
+| 2 | PRG | L3 |  | [등산코스 정하기](https://school.programmers.co.kr/learn/courses/30/lessons/118669) |  |
+| 2 | PRG | L2 |  | [이모티콘 할인행사](https://school.programmers.co.kr/learn/courses/30/lessons/150368) |  |
+| 2 | PRG | L2 |  | [두 큐 합 같게 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/118667) |  |
 
 
