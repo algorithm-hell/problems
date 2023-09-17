@@ -1,6 +1,6 @@
 #include <bits/stdc++.h>
 using namespace std;
-int p1, p2, temp;
+int temp;
 
 int solution(vector<int> queue1, vector<int> queue2) {
     int answer = 0;
