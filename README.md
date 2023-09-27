@@ -25,11 +25,13 @@
 | 1 | BOJ | G5 | 2470 | [두 용액](https://www.acmicpc.net/problem/2470) | |
 | 1 | BOJ | G4 | 10942 | [팰린드롬?](https://www.acmicpc.net/problem/10942) | 현경 |
 | 1 | BOJ | G4 | 2056 | [작업](https://www.acmicpc.net/problem/2056) | 채원 |
-| 2 | PRG | L3 |  | [등산코스 정하기](https://school.programmers.co.kr/learn/courses/30/lessons/118669) | 현경 |
-| 2 | PRG | L2 |  | [이모티콘 할인행사](https://school.programmers.co.kr/learn/courses/30/lessons/150368) |  |
-| 2 | PRG | L2 |  | [두 큐 합 같게 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/118667) |  |
-| 3 | PRG | L3 |  | [단어 변환](https://school.programmers.co.kr/learn/courses/30/lessons/43163) | |
-| 3 | PRG | L2 |  | [삼각 달팽이](https://school.programmers.co.kr/learn/courses/30/lessons/68645) |  |
-| 3 | PRG | L3 |  | [다단계 칫솔 판매](https://school.programmers.co.kr/learn/courses/30/lessons/77486) |  |
-
+| 2 | PRG | L3 | 118669 | [등산코스 정하기](https://school.programmers.co.kr/learn/courses/30/lessons/118669) | 현경 |
+| 2 | PRG | L2 | 150368 | [이모티콘 할인행사](https://school.programmers.co.kr/learn/courses/30/lessons/150368) |  |
+| 2 | PRG | L2 | 118667 | [두 큐 합 같게 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/118667) |  |
+| 3 | PRG | L3 | 43163  | [단어 변환](https://school.programmers.co.kr/learn/courses/30/lessons/43163) | |
+| 3 | PRG | L2 | 68645 | [삼각 달팽이](https://school.programmers.co.kr/learn/courses/30/lessons/68645) |  |
+| 3 | PRG | L3 | 77486 | [다단계 칫솔 판매](https://school.programmers.co.kr/learn/courses/30/lessons/77486) |  |
+| 4 | PRG | L3 | 72414 | [광고 삽입](https://school.programmers.co.kr/learn/courses/30/lessons/72414) | |
+| 4 | PRG | L3 | 67258 | [보석 쇼핑](https://school.programmers.co.kr/learn/courses/30/lessons/67258) |  |
+| 4 | PRG | L3 | 42892 | [길 찾기 게임](https://school.programmers.co.kr/learn/courses/30/lessons/42892) |  |
 
