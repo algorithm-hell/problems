@@ -34,4 +34,7 @@
 | 4 | PRG | L3 | 72414 | [광고 삽입](https://school.programmers.co.kr/learn/courses/30/lessons/72414) | |
 | 4 | PRG | L3 | 67258 | [보석 쇼핑](https://school.programmers.co.kr/learn/courses/30/lessons/67258) |  |
 | 4 | PRG | L3 | 42892 | [길 찾기 게임](https://school.programmers.co.kr/learn/courses/30/lessons/42892) |  |
+| 5 | PRG | L3 | 150365 | [미로 탈출 명령어](https://school.programmers.co.kr/learn/courses/30/lessons/150365) | |
+| 5 | PRG | L3 | 72411 | [메뉴 리뉴얼](https://school.programmers.co.kr/learn/courses/30/lessons/72411) |  |
+| 5 | PRG | L3 | 72413 | [합동 택시 요금](https://school.programmers.co.kr/learn/courses/30/lessons/72413) |  |
 
