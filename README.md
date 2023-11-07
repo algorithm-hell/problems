@@ -36,5 +36,8 @@
 | 4 | PRG | L3 | 42892 | [길 찾기 게임](https://school.programmers.co.kr/learn/courses/30/lessons/42892) |  |
 | 5 | PRG | L3 | 150365 | [미로 탈출 명령어](https://school.programmers.co.kr/learn/courses/30/lessons/150365) | |
 | 5 | PRG | L3 | 72411 | [메뉴 리뉴얼](https://school.programmers.co.kr/learn/courses/30/lessons/72411) |  |
-| 5 | PRG | L3 | 72413 | [합동 택시 요금](https://school.programmers.co.kr/learn/courses/30/lessons/72413) |  |
+| 5 | PRG | L3 | 72413 | [합승 택시 요금](https://school.programmers.co.kr/learn/courses/30/lessons/72413) |  |
+| 6 | PRG | L2 | 42888 | [오픈채팅방](https://school.programmers.co.kr/learn/courses/30/lessons/42888) |  |
+| 6 | PRG | L3 | 17678 | [셔틀버스](https://school.programmers.co.kr/learn/courses/30/lessons/17678) |  |
+| 6 | PRG | L2 | 92341 | [주차 요금 계산](https://school.programmers.co.kr/learn/courses/30/lessons/92341) |  |
 
