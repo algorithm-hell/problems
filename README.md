@@ -40,4 +40,7 @@
 | 6 | PRG | L2 | 42888 | [오픈채팅방](https://school.programmers.co.kr/learn/courses/30/lessons/42888) |  |
 | 6 | PRG | L3 | 17678 | [셔틀버스](https://school.programmers.co.kr/learn/courses/30/lessons/17678) |  |
 | 6 | PRG | L2 | 92341 | [주차 요금 계산](https://school.programmers.co.kr/learn/courses/30/lessons/92341) |  |
+| 7 | PRG | L3 | 60059 | [자물쇠와 열쇠](https://school.programmers.co.kr/learn/courses/30/lessons/60059) |  |
+| 7 | PRG | L2 | 60058 | [괄호변환](https://school.programmers.co.kr/learn/courses/30/lessons/60058) |  |
+| 7 | PRG | L3 | 81303 | [표 편집](https://school.programmers.co.kr/learn/courses/30/lessons/81303) |  |
 
